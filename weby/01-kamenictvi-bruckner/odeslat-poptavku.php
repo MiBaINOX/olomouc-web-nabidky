@@ -1,5 +1,5 @@
 <?php
-// Automaticky skript pro odesilani poptavek z webu kamenictvi-bruckner.cz (Kamenosochařství Miloš Brückner a syn)
+// Automaticky skript pro odesilani poptavek z webu kamenictvi-bruckner.cz (Kamenosochařství Miloš Brückner)
 header('Content-Type: application/json; charset=utf-8');
 
 if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
@@ -26,11 +26,11 @@ if ($name === '' || $phone === '' || $message === '') {
     exit;
 }
 
-$to = "bruckner@kamenictvi-bruckner.cz";
+$to = "kamenictvi.bruckner@email.cz";
 $subject = "=?UTF-8?B?" . base64_encode("Nova poptavka z webu (kamenictvi-bruckner.cz): " . $service . " - " . $name) . "?=";
 
 $body  = "Dobrý den,\n\n";
-$body .= "z webového formuláře na stránkách Kamenosochařství Miloš Brückner a syn (kamenictvi-bruckner.cz) byla odeslána nová poptávka:\n\n";
+$body .= "z webového formuláře na stránkách Kamenosochařství Miloš Brückner (kamenictvi-bruckner.cz) byla odeslána nová poptávka:\n\n";
 $body .= "--------------------------------------------------\n";
 $body .= "Jméno / Firma:   " . $name . "\n";
 $body .= "Telefon:         " . $phone . "\n";

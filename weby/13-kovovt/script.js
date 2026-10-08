@@ -62,7 +62,8 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     document.querySelectorAll('.bento-card').forEach((card, idx) => {
-        card.addEventListener('click', () => openLightbox(idx));
+        const gIdx = parseInt(card.getAttribute('data-gallery-idx') ?? idx, 10);
+        card.addEventListener('click', () => openLightbox(gIdx));
     });
 
     if (lbClose) lbClose.addEventListener('click', () => lightbox.classList.remove('open'));

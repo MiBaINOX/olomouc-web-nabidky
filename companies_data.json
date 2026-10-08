@@ -1,0 +1,1562 @@
+[
+  {
+    "id": "01-kamenictvi-bruckner",
+    "name": "Kamenosochařství Miloš Brückner",
+    "city": "Olomouc",
+    "address": "Žitná 14, 779 00 Olomouc",
+    "phone": "+420 585 224 112",
+    "email": "info@kamenictvi-bruckner.cz",
+    "old_domain": "kamenictvi-bruckner.cz",
+    "field": "Kamenosochařství a pomníková architektura",
+    "tagline": "Poctivé kamenické řemeslo a nadčasové zpracování kamene s tradicí od roku 1992",
+    "theme": {
+      "primary": "#1E232A",
+      "secondary": "#2C333D",
+      "accent": "#C5A059",
+      "accent_light": "#E8D3A2",
+      "bg_light": "#F8F9FA",
+      "text": "#2B2D42",
+      "font_heading": "'Playfair Display', serif",
+      "font_body": "'Inter', sans-serif"
+    },
+    "audit_flaws": [
+      "Web dosud běžel na nezabezpečeném protokolu HTTP bez SSL certifikátu (prohlížeče varují zákazníky červeným hlášením)",
+      "Absence meta viewportu – stránka je na chytrých telefonech nečitelná a vyžaduje neustálé ruční přibližování",
+      "Zastaralá tabulková kostra z roku 2005 s archaickými tagy <font> a <center>",
+      "Chybějící fotogalerie moderních realizací a neexistující online poptávkový formulář pro klienty"
+    ],
+    "usp": [
+      "Výběrová švédská a africká žula s certifikací původu",
+      "Kompletní realizace na klíč včetně základů, dopravy a usazení",
+      "Ruční i strojní sekání a zlacení písma 24karátovým zlatem",
+      "Rychlý návrh a 3D vizualizace před zahájením výroby"
+    ],
+    "hero_img": "https://images.unsplash.com/photo-1590381105924-c72589b9ef3f?auto=format&fit=crop&w=1600&q=80",
+    "gallery": [
+      {
+        "title": "Jednohroby a urnové hroby",
+        "desc": "Čisté linie z tmavé leštěné žuly Impala",
+        "img": "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Dvouhroby a rodinné hrobky",
+        "desc": "Monumentální zpracování z ušlechtilého kamene",
+        "img": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Renovace a přebroušení",
+        "desc": "Obnova historických náhrobků a zlacení písma",
+        "img": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Stavební kamenictví",
+        "desc": "Parapety, schodiště a krby na míru",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80"
+      }
+    ],
+    "services": [
+      {
+        "icon": "🪦",
+        "name": "Výroba nových pomníků",
+        "desc": "Jednohroby, dvouhroby i urnové pomníky z prvotřídních žul a mramorů s garantovanou mrazuvzdorností."
+      },
+      {
+        "icon": "✨",
+        "name": "Sekání a zlacení písma",
+        "desc": "Strojní pískování, ruční sekání, stříbření a zlacení pravým 24kt plátkovým zlatem na hřbitovech v celém kraji."
+      },
+      {
+        "icon": "🔄",
+        "name": "Renovace a rovnání hrobů",
+        "desc": "Přebroušení starých náhrobků, srovnání propadlých základů, impregnace kamene a oprava prasklin."
+      },
+      {
+        "icon": "🏛️",
+        "name": "Kamenické doplňky",
+        "desc": "Nerezové a kamenné lampy, vázy, krycí desky, fotokeramika a ozdobné nápisové desky."
+      }
+    ]
+  },
+  {
+    "id": "02-myfa-olomouc",
+    "name": "MYFA Olomouc s.r.o.",
+    "city": "Olomouc",
+    "address": "Holická 31, 779 00 Olomouc",
+    "phone": "+420 585 311 884",
+    "email": "stavby@myfa.cz",
+    "old_domain": "myfa.cz",
+    "field": "Inženýrské stavby a sanace betonu",
+    "tagline": "Specialista na sanace betonových konstrukcí, průmyslové hydroizolace a inženýrské stavby",
+    "theme": {
+      "primary": "#0F4C81",
+      "secondary": "#1E2A38",
+      "accent": "#F26419",
+      "accent_light": "#F69D62",
+      "bg_light": "#F4F7FB",
+      "text": "#1A2530",
+      "font_heading": "'Montserrat', sans-serif",
+      "font_body": "'Inter', sans-serif"
+    },
+    "audit_flaws": [
+      "Provoz pouze na nezabezpečeném HTTP bez šifrování dat",
+      "Copyright v patičce zamrzl v roce 2011, což budí dojem neaktivní společnosti",
+      "Absence mobilní optimalizace a načítání prehistorické knihovny jQuery 1.5.2",
+      "Nulová prezentace referenčních průmyslových zakázek a chybějící poptávkový systém"
+    ],
+    "usp": [
+      "Přes 30 let zkušeností v oblasti inženýrských a betonářských prací",
+      "Certifikované sanační systémy splňující normu ČSN EN 1504",
+      "Vlastní strojový park pro vysokotlaké tryskání a injektáže",
+      "Garance dlouholeté životnosti a kompletní technický dozor"
+    ],
+    "hero_img": "https://images.unsplash.com/photo-1541888946425-d0fbb186c5f7?auto=format&fit=crop&w=1600&q=80",
+    "gallery": [
+      {
+        "title": "Sanace mostních pilířů",
+        "desc": "Reprofilace a hydrofobní ochrana betonu",
+        "img": "https://images.unsplash.com/photo-1517581177682-a085bb7ffb15?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Tlakové injektáže trhlin",
+        "desc": "Zastavení průsaků spodní vody v podzemních objektech",
+        "img": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Průmyslové nádrže a jímky",
+        "desc": "Chemicky odolné nátěry a ochranné vrstvy",
+        "img": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Inženýrské stavby",
+        "desc": "Železobetonové konstrukce pro výrobní areály",
+        "img": "https://images.unsplash.com/photo-1590381105924-c72589b9ef3f?auto=format&fit=crop&w=800&q=80"
+      }
+    ],
+    "services": [
+      {
+        "icon": "🏗️",
+        "name": "Sanace a reprofilace betonu",
+        "desc": "Obnova degradovaných železobetonových konstrukcí, odstranění karbonatace a antikorozní ochrana výztuže."
+      },
+      {
+        "icon": "💧",
+        "name": "Tlakové a gelové injektáže",
+        "desc": "Zastavení aktivních průsaků vody, utěsnění dilatačních spár a zpevnění podzákladí chemickými pryskyřicemi."
+      },
+      {
+        "icon": "🛡️",
+        "name": "Hydroizolace a ochranné nátěry",
+        "desc": "Bezešvé krystalizační, stěrkové a polyuretanové hydroizolační systémy pro mosty, jímky a sklepy."
+      },
+      {
+        "icon": "🏢",
+        "name": "Průmyslové podlahy",
+        "desc": "Vysokopevnostní pancéřové a samonivelační stěrky odolávající vysokému zatížení a chemikáliím."
+      }
+    ]
+  },
+  {
+    "id": "03-gtc-hranice",
+    "name": "GTC Plus s.r.o.",
+    "city": "Hranice",
+    "address": "Rezkova 1669, 753 01 Hranice I-Město",
+    "phone": "+420 581 602 119",
+    "email": "obchod@gtc-hranice.cz",
+    "old_domain": "gtc-hranice.cz",
+    "field": "Zámečnictví, kovovýroba a montáže strojů",
+    "tagline": "Zakázková zámečnická výroba, přesné svařování a servis jednoúčelových průmyslových strojů",
+    "theme": {
+      "primary": "#1E293B",
+      "secondary": "#0F172A",
+      "accent": "#0284C7",
+      "accent_light": "#38BDF8",
+      "bg_light": "#F8FAFC",
+      "text": "#334155",
+      "font_heading": "'Space Grotesk', sans-serif",
+      "font_body": "'Inter', sans-serif"
+    },
+    "audit_flaws": [
+      "Provoz na nezabezpečeném protokolu HTTP bez HTTPS šifrování",
+      "Web postaven z 12 layoutových HTML tabulek s pevnou šířkou (rozpadá se na telefonech)",
+      "Chybějící fotodokumentace technologického parku a svářečských certifikací",
+      "Zastaralý Doctype HTML 4.01 a texty formátované pomocí inline stylů"
+    ],
+    "usp": [
+      "Kompletní zakázková kovovýroba od technické dokumentace po montáž",
+      "Certifikovaní svářeči dle EN ISO 9606-1 (MIG/MAG, TIG)",
+      "Kapacita pro kusovou zámečnickou výrobu i sériové svařence",
+      "Rychlý operativní servis a montáže v závodech po celé Moravě"
+    ],
+    "hero_img": "https://images.unsplash.com/photo-1504917599217-d4dc5ebe6122?auto=format&fit=crop&w=1600&q=80",
+    "gallery": [
+      {
+        "title": "Jednoúčelové stroje",
+        "desc": "Výroba a montáž montážních linek",
+        "img": "https://images.unsplash.com/photo-1581092335397-9583fe92d232?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Ocelové konstrukce",
+        "desc": "Výrobní plošiny, lávky a schodiště",
+        "img": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Přesné TIG svařování",
+        "desc": "Svařování nerezi a hliníku s atestem",
+        "img": "https://images.unsplash.com/photo-1504917599217-d4dc5ebe6122?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Průmyslová zámečnina",
+        "desc": "Dopravníky, rámy a krytování strojů",
+        "img": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=800&q=80"
+      }
+    ],
+    "services": [
+      {
+        "icon": "⚙️",
+        "name": "Zakázková kovovýroba",
+        "desc": "Dělení materiálu, ohýbání plechů, vrtání a výroba ocelových rámů, palet a konstrukčních celků."
+      },
+      {
+        "icon": "👨‍🏭",
+        "name": "Profesionální svařování",
+        "desc": "Svařování oceli, nerezi i slitin metodami MIG/MAG a TIG s nedestruktivní kontrolou svárů."
+      },
+      {
+        "icon": "🔧",
+        "name": "Montáž a servis strojů",
+        "desc": "Sestavování jednoúčelových strojů, mechanické montáže v průmyslových provozech a repase linek."
+      },
+      {
+        "icon": "📐",
+        "name": "Zámečnické konstrukce",
+        "desc": "Výroba bezpečnostních krytů, zábradlí, pochozích lávek a nosných ocelových konstrukcí."
+      }
+    ]
+  },
+  {
+    "id": "04-podlaharstvi-vitek",
+    "name": "Podlahářství Vítek",
+    "city": "Prostějov / Olomouc",
+    "address": "Plumlovská 82, 796 01 Prostějov",
+    "phone": "+420 603 445 789",
+    "email": "info@podlaharstvi-vitek.cz",
+    "old_domain": "podlaharstvi-vitek.cz",
+    "field": "Kompletní podlahářské práce a renovace",
+    "tagline": "Odborná pokládka vinylových, dřevěných i laminátových podlah a bezprašná renovace parket",
+    "theme": {
+      "primary": "#3D2B1F",
+      "secondary": "#5C4033",
+      "accent": "#C29B38",
+      "accent_light": "#E0C379",
+      "bg_light": "#FDFBF7",
+      "text": "#2B2119",
+      "font_heading": "'Cinzel', serif",
+      "font_body": "'Plus Jakarta Sans', sans-serif"
+    },
+    "audit_flaws": [
+      "Běží na nezabezpečeném HTTP protokolu (chybí SSL)",
+      "Copyright zamrzl v roce 2012, web nebyl přes dekádu aktualizován",
+      "Absence responzivního zobrazení a načítání staré jQuery 1.2.6 z roku 2008",
+      "Chybějící kalkulátor podlah a vzorník dekorů pro moderní zákazníky"
+    ],
+    "usp": [
+      "Bezplatné zaměření a kalkulace přímo u vás doma v Olomouckém kraji",
+      "Bezprašné broušení dřevěných parket špičkovými stroji LÄGLER",
+      "Široký výběr vzorků vinylových dílců i lepených podlah",
+      "Záruka na materiál i precizní pokládku včetně nivelace podkladu"
+    ],
+    "hero_img": "https://images.unsplash.com/photo-1581858726788-75bc0f6a952d?auto=format&fit=crop&w=1600&q=80",
+    "gallery": [
+      {
+        "title": "Lepené vinylové podlahy",
+        "desc": "Odolné dekory dubu s nulovým krokem",
+        "img": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Renovace masivních parket",
+        "desc": "Bezprašné vybroušení a tvrdovoskový olej",
+        "img": "https://images.unsplash.com/photo-1581858726788-75bc0f6a952d?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Dřevěné třívrstvé podlahy",
+        "desc": "Přírodní teplo a exkluzivní vzhled pro obývací pokoje",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Příprava podkladů",
+        "desc": "Broušení a samonivelační stěrky s laserovou rovinou",
+        "img": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=800&q=80"
+      }
+    ],
+    "services": [
+      {
+        "icon": "🪵",
+        "name": "Vinylové podlahy",
+        "desc": "Pokládka lepeného i plovoucího vinylu s vysokou zátěžovou třídou a odolností vůči vodě."
+      },
+      {
+        "icon": "🌳",
+        "name": "Dřevěné podlahy a parkety",
+        "desc": "Montáž masivních prken i vícevrstvých dřevěných podlah od předních evropských výrobců."
+      },
+      {
+        "icon": "✨",
+        "name": "Renovace a broušení parket",
+        "desc": "Kompletní oprava starých dřevěných podlah, tmelení spár a ošetření špičkovými laky či oleji Bona."
+      },
+      {
+        "icon": "📏",
+        "name": "Nivelace a příprava podkladů",
+        "desc": "Frézování, penetrace a aplikace samonivelačních stěrek pro dokonale rovný a pevný podklad."
+      }
+    ]
+  },
+  {
+    "id": "05-pradelnaspacil",
+    "name": "Prádelna a čistírna Vít Spáčil",
+    "city": "Prostějov",
+    "address": "Drozdovice 68, 796 01 Prostějov",
+    "phone": "+420 582 344 210",
+    "email": "pradelna@pradelnaspacil.cz",
+    "old_domain": "pradelnaspacil.cz",
+    "field": "Prádelenské služby a chemické čištění",
+    "tagline": "Profesionální praní a mandlování prádla pro hotely, restaurace, firmy i širokou veřejnost",
+    "theme": {
+      "primary": "#0284C7",
+      "secondary": "#0369A1",
+      "accent": "#0D9488",
+      "accent_light": "#5EEAD4",
+      "bg_light": "#F0F9FF",
+      "text": "#1E293B",
+      "font_heading": "'Outfit', sans-serif",
+      "font_body": "'Inter', sans-serif"
+    },
+    "audit_flaws": [
+      "Nezabezpečené připojení HTTP bez SSL certifikátu",
+      "Copyright v zápatí z roku 2013 – web působí opuštěně",
+      "Stránka není responzivní pro mobily a postrádá moderní ceník služeb",
+      "Chybějící informace o svozu prádla pro firemní zákazníky a hotely"
+    ],
+    "usp": [
+      "Pravidelný svoz a závoz prádla po Prostějově, Olomouci a okolí",
+      "Ekologické prací prostředky šetrné k textiliím i pokožce",
+      "Kapacita pro velké hotelové zakázky i expresní čištění oděvů",
+      "Vysokoteplotní hygienické praní a velkokapacitní mandlování"
+    ],
+    "hero_img": "https://images.unsplash.com/photo-1545173168-9f1947eebb7f?auto=format&fit=crop&w=1600&q=80",
+    "gallery": [
+      {
+        "title": "Hotelové ložní prádlo",
+        "desc": "Sněhobílé vyžehlené povlečení a ručníky",
+        "img": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Gastro prádlo a ubrusy",
+        "desc": "Hladce mandlované ubrusy a rautové sukně",
+        "img": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Pracovní oděvy a montérky",
+        "desc": "Hloubkové odmaštění a vyprání montérek",
+        "img": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Chemické čištění obleků",
+        "desc": "Šetrné čištění sak, kabátů a společenských šatů",
+        "img": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=800&q=80"
+      }
+    ],
+    "services": [
+      {
+        "icon": "🛏️",
+        "name": "Praní pro hotely a penziony",
+        "desc": "Kompletní servis ložního prádla, froté ručníků a županů s garantovanou hygienickou čistotou."
+      },
+      {
+        "icon": "🍽️",
+        "name": "Praní a mandlování pro gastro",
+        "desc": "Praní restauračního textilu, rautových ubrusů, ubrousků a kuchařských rondonů."
+      },
+      {
+        "icon": "👔",
+        "name": "Čistírna oděvů a kabátů",
+        "desc": "Šetrné chemické čištění společenských obleků, vlněných kabátů, péřových bund a závěsů."
+      },
+      {
+        "icon": "🚚",
+        "name": "Svoz a rozvoz prádla",
+        "desc": "Pravidelná logistika čistého a špinavého prádla přímo do vaší provozovny podle domluveného harmonogramu."
+      }
+    ]
+  },
+  {
+    "id": "06-oris-olomouc",
+    "name": "ORIS Olomouc",
+    "city": "Olomouc",
+    "address": "Pavelkova 598/11, 779 00 Olomouc",
+    "phone": "+420 585 313 770",
+    "email": "oris@oris-olomouc.cz",
+    "old_domain": "oris-olomouc.cz",
+    "field": "Reklamní grafika, velkoformátový tisk a polepy",
+    "tagline": "Komplexní reklamní výroba od grafického návrhu přes velkoformátový tisk až po instalaci v terénu",
+    "theme": {
+      "primary": "#111827",
+      "secondary": "#1F2937",
+      "accent": "#7C3AED",
+      "accent_light": "#A78BFA",
+      "bg_light": "#F9FAFB",
+      "text": "#374151",
+      "font_heading": "'Syne', sans-serif",
+      "font_body": "'Inter', sans-serif"
+    },
+    "audit_flaws": [
+      "Pro reklamní agenturu zcela nevhodný tabulkový web z let 2010/2011",
+      "Absence responzivity na mobilních zařízeních – degraduje pověst kreativního studia",
+      "Chybějící moderní portfolio velkoformátových tisků a realizovaných polepů",
+      "Doctype HTML 4.01 a rigidní úzký sloupec uprostřed obrazovky"
+    ],
+    "usp": [
+      "Vlastní špičkové tiskové plotry s UV a latexovou technologií",
+      "Celopolepy firemních vozidel litou fólií s dlouholetou životností",
+      "Světelné 3D nápisy, LED panely a pylonové poutače",
+      "Kompletní grafické studio a zkušený montážní tým"
+    ],
+    "hero_img": "https://images.unsplash.com/photo-1542744094-3a31f272c490?auto=format&fit=crop&w=1600&q=80",
+    "gallery": [
+      {
+        "title": "Polepy vozidel (Car Wrap)",
+        "desc": "Firemní dodávky a osobní vozy v litých fóliích",
+        "img": "https://images.unsplash.com/photo-1617788138017-80ad40651399?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Světelná reklama a 3D loga",
+        "desc": "LED prosvětlené kazety a profilová písmena",
+        "img": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Velkoformátový tisk",
+        "desc": "Bannery, samolepky, mesh plachty a billboardy",
+        "img": "https://images.unsplash.com/photo-1562654501-a0ccc0fc3fb1?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Výlohy a orientační systémy",
+        "desc": "Pískované fólie a navigace pro kancelářské budovy",
+        "img": "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=800&q=80"
+      }
+    ],
+    "services": [
+      {
+        "icon": "🚗",
+        "name": "Polepy automobilů a flotil",
+        "desc": "Designové i firemní polepy aut, dodávek a kamionů lité fólie s UV laminací pro maximální stálost."
+      },
+      {
+        "icon": "🖨️",
+        "name": "Velkoformátový tisk",
+        "desc": "Tisk bannerů, roll-upů, fototapet a plakátů v fotografické kvalitě s odolností proti povětrnostním vlivům."
+      },
+      {
+        "icon": "💡",
+        "name": "Světelná reklama a 3D písmo",
+        "desc": "Výroba svítících LED panelů, neónových nápisů a prostorových log pro fasády firemních sídel."
+      },
+      {
+        "icon": "🎨",
+        "name": "Grafický design a DTP",
+        "desc": "Tvorba firemní identity, tiskoviny, katalogy a příprava tiskových dat pod dohledem zkušených grafiků."
+      }
+    ]
+  },
+  {
+    "id": "07-elektrolupa",
+    "name": "Elektromontáže LUPA, s.r.o.",
+    "city": "Prostějov",
+    "address": "Kojetínská 1345/14, 796 01 Prostějov",
+    "phone": "+420 582 331 450",
+    "email": "lupa@elektrolupa.cz",
+    "old_domain": "elektrolupa.cz",
+    "field": "Elektromontáže, revize a fotovoltaika",
+    "tagline": "Komplexní elektroinstalace silnoproudu i slaboproudu, průmyslové montáže a revizní zprávy",
+    "theme": {
+      "primary": "#0B3C5D",
+      "secondary": "#1D2731",
+      "accent": "#F7B733",
+      "accent_light": "#FCD581",
+      "bg_light": "#F9FBFC",
+      "text": "#2B3A42",
+      "font_heading": "'Chakra Petch', sans-serif",
+      "font_body": "'Inter', sans-serif"
+    },
+    "audit_flaws": [
+      "Pevný zastaralý layout s copyrightem z roku 2012",
+      "Web není optimalizován pro smartphony (chybí meta viewport)",
+      "Chybějící prezentace realizací fotovoltaických elektráren a inteligentních domů",
+      "Neexistence kontaktního poptávkového formuláře pro rychlé nacenění"
+    ],
+    "usp": [
+      "Oprávnění a certifikace pro elektroinstalace do i nad 1000 V",
+      "Vlastní revizní technici – revize výchozí i pravidelné bez čekání",
+      "Realizace pro rodinné domy, bytové domy i průmyslové haly",
+      "Komplexní záruční a pozáruční servis elektrozařízení"
+    ],
+    "hero_img": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&w=1600&q=80",
+    "gallery": [
+      {
+        "title": "Průmyslové rozvaděče",
+        "desc": "Zapojení hlavních a podružných skříní",
+        "img": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Fotovoltaické systémy",
+        "desc": "Instalace panelů a střídačů pro firmy i domy",
+        "img": "https://images.unsplash.com/photo-1509391365360-2e959784a276?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Chytré elektroinstalace",
+        "desc": "Automatizace osvětlení, stínění a vytápění",
+        "img": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Zabezpečení a kamery",
+        "desc": "Instalace EZS, EPS a kamerových systémů",
+        "img": "https://images.unsplash.com/photo-1557597774-9d273605dfa9?auto=format&fit=crop&w=800&q=80"
+      }
+    ],
+    "services": [
+      {
+        "icon": "⚡",
+        "name": "Elektroinstalace novostaveb a rekonstrukcí",
+        "desc": "Kompletní rozvody elektřiny pro rodinné domy, byty a komerční prostory včetně montáže osvětlení a zásuvek."
+      },
+      {
+        "icon": "☀️",
+        "name": "Fotovoltaické elektrárny (FVE)",
+        "desc": "Návrh a montáž střešních solárních systémů na klíč včetně bateriových úložišť a vyřízení dotací Nová zelená úsporám."
+      },
+      {
+        "icon": "📋",
+        "name": "Výchozí i periodické revize",
+        "desc": "Revize elektrických zařízení, hromosvodů a spotřebičů s vystavením úřední revizní zprávy."
+      },
+      {
+        "icon": "🔒",
+        "name": "Zabezpečovací a slaboproudé systémy",
+        "desc": "Kamerové systémy CCTV, alarmy Jablotron, datové rozvody a domovní videotelefony."
+      }
+    ]
+  },
+  {
+    "id": "08-ortechcz",
+    "name": "Kamenictví ORTECH CZ s.r.o.",
+    "city": "Prostějov",
+    "address": "Kralická 104, 796 01 Prostějov",
+    "phone": "+420 582 365 980",
+    "email": "info@ortechcz.cz",
+    "old_domain": "ortechcz.cz",
+    "field": "Zpracování přírodního kamene a interiérové prvky",
+    "tagline": "Prvotřídní žula, mramor a technický kámen pro exkluzivní kuchyně, krby a koupelny",
+    "theme": {
+      "primary": "#18181B",
+      "secondary": "#27272A",
+      "accent": "#EAB308",
+      "accent_light": "#FDE047",
+      "bg_light": "#FAFAFA",
+      "text": "#3F3F46",
+      "font_heading": "'Playfair Display', serif",
+      "font_body": "'Plus Jakarta Sans', sans-serif"
+    },
+    "audit_flaws": [
+      "Web s copyrightem 2012 na Doctype XHTML 1.0",
+      "Zastaralá knihovna jQuery 1.2.6 z roku 2008 způsobující chyby v moderních prohlížečích",
+      "Neresponzivní zobrazení neodpovídá prémiovému charakteru kamenných výrobků",
+      "Chybějící online vzorník vzácných přírodních žul a mramorů"
+    ],
+    "usp": [
+      "Přímý dovoz velkoformátových kamenných desek z Itálie, Španělska a Brazílie",
+      "CNC přesné opracování hran a výřezů pro dřezy se spodní montáží",
+      "Nenasákavá nanokeramická impregnace povrchů kamene",
+      "Laserové zaměření přímo v interiéru před zadáním do výroby"
+    ],
+    "hero_img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1600&q=80",
+    "gallery": [
+      {
+        "title": "Kamenné kuchyňské desky",
+        "desc": "Leštěná žula Nero Assoluto se zapuštěným dřezem",
+        "img": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Koupelnové obklady a umyvadla",
+        "desc": "Bílý mramor Carrara s průběžnou kresbou",
+        "img": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Krbové portály",
+        "desc": "Masivní kamenné obložení krbových vložek",
+        "img": "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Schodiště a venkovní dlažby",
+        "desc": "Protiskluzová úprava žuly Flammato pro exteriér",
+        "img": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=800&q=80"
+      }
+    ],
+    "services": [
+      {
+        "icon": "🍽️",
+        "name": "Kuchyňské pracovní desky",
+        "desc": "Odolné žulové a křemenné desky, které se nepoškrábou, odolávají horkým hrncům a snadno se čistí."
+      },
+      {
+        "icon": "🛁",
+        "name": "Koupelny z mramoru",
+        "desc": "Velkoformátové mramorové obklady stěn, podlah, sprchových koutů a umyvadlové pulty na zakázku."
+      },
+      {
+        "icon": "🔥",
+        "name": "Krbové obestavby",
+        "desc": "Moderní i rustikální krbové římsy a obložení akumulačním přírodním kamenem s dlouhou hřejivostí."
+      },
+      {
+        "icon": "🏛️",
+        "name": "Masivní schodiště a parapety",
+        "desc": "Vnitřní leštěné i venkovní tryskané kamenné schody a parapetní desky řezané přesně na míru."
+      }
+    ]
+  },
+  {
+    "id": "09-stolarnamajer",
+    "name": "Stolárna Majer",
+    "city": "Velký Týnec (Olomouc)",
+    "address": "Vinary 42, 783 72 Velký Týnec",
+    "phone": "+420 608 774 219",
+    "email": "majer@stolarnamajer.cz",
+    "old_domain": "stolarnamajer.cz",
+    "field": "Zakázkové truhlářství a výroba nábytku",
+    "tagline": "Poctivé stolařské řemeslo od roku 1994 – kuchyně, vestavěné skříně a nábytek na míru",
+    "theme": {
+      "primary": "#3E2723",
+      "secondary": "#4E342E",
+      "accent": "#D7A86E",
+      "accent_light": "#EED8BD",
+      "bg_light": "#FAF7F2",
+      "text": "#2D241E",
+      "font_heading": "'Marcellus', serif",
+      "font_body": "'DM Sans', sans-serif"
+    },
+    "audit_flaws": [
+      "Neresponzivní web z roku 2012 na Doctype XHTML 1.0",
+      "Načítání staré knihovny jQuery 1.4.3 z roku 2010",
+      "Pomalá a nepřehledná fotogalerie výrobků s malými náhledy",
+      "Chybějící možnost odeslat nezávaznou poptávku s přílohou nákresu"
+    ],
+    "usp": [
+      "Více než 30 let tradice zakázkové dřevovýroby na Hané",
+      "3D grafický návrh a vizualizace zdarma ke každé kuchyni",
+      "Kvalitní kování Blum s doživotní zárukou tichého dovírání",
+      "Kompletní realizace včetně dovozu a čisté odborné montáže"
+    ],
+    "hero_img": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=1600&q=80",
+    "gallery": [
+      {
+        "title": "Moderní kuchyně na míru",
+        "desc": "Matné lakované povrchy a dubové dýhy",
+        "img": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Vestavěné šatní skříně",
+        "desc": "Chytré členění prostoru od podlahy po strop",
+        "img": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Masivní jídelní stoly",
+        "desc": "Divoký dub s olejovaným povrchem a ocelovou podnoží",
+        "img": "https://images.unsplash.com/photo-1577140917170-285929fb55b7?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Interiérové dveře a zárubně",
+        "desc": "Skryté panty a magnetické zámky v čistém designu",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80"
+      }
+    ],
+    "services": [
+      {
+        "icon": "🍳",
+        "name": "Kuchyňské linky na klíč",
+        "desc": "Ergonomicky promyšlené kuchyně z prémiových materiálů s vestavnými spotřebiči a LED osvětlením."
+      },
+      {
+        "icon": "🚪",
+        "name": "Vestavné skříně a šatny",
+        "desc": "Maximalizace úložného prostoru s posuvnými i křídlovými dveřmi, výsuvy na míru a organizéry."
+      },
+      {
+        "icon": "🪵",
+        "name": "Nábytek z masivu",
+        "desc": "Stoly, lavice, komody a postele vyráběné tradičními truhlářskými spoji z dubu, buku i ořechu."
+      },
+      {
+        "icon": "🏢",
+        "name": "Kancelářský a komerční nábytek",
+        "desc": "Recepční pulty, zasedací stoly a odolný nábytek pro firmy, ordinace a hotely."
+      }
+    ]
+  },
+  {
+    "id": "10-stavofloor",
+    "name": "Stavofloor s.r.o.",
+    "city": "Přerov",
+    "address": "Kojetínská 71, 750 02 Přerov",
+    "phone": "+420 581 210 998",
+    "email": "info@stavofloor.cz",
+    "old_domain": "stavofloor.cz",
+    "field": "Průmyslové lité podlahy a stěrky",
+    "tagline": "Průmyslové epoxidové a polyuretanové podlahy s extrémní mechanickou i chemickou odolností",
+    "theme": {
+      "primary": "#1E293B",
+      "secondary": "#334155",
+      "accent": "#E11D48",
+      "accent_light": "#FB7185",
+      "bg_light": "#F8FAFC",
+      "text": "#0F172A",
+      "font_heading": "'Barlow', sans-serif",
+      "font_body": "'Inter', sans-serif"
+    },
+    "audit_flaws": [
+      "Pevná fixní šířka pro staré rozlišení monitorů 1024x768",
+      "Copyright v zápatí z roku 2012, kód HTML 4.01",
+      "Zastaralá knihovna jQuery 1.3.2 a nulová optimalizace pro mobilní zobrazení",
+      "Chybějící průmyslový konfigurátor tloušťky a typu zatížení podlahy"
+    ],
+    "usp": [
+      "Více než 250 000 m² úspěšně realizovaných průmyslových ploch",
+      "Bezešvé podlahy vyhovující nejpřísnějším hygienickým normám HACCP",
+      "Rychle tuhnoucí systémy – možnost obnovení provozu již za 24 hodin",
+      "Vlastní strojní vybavení pro tryskání ocelovými kuličkami i diamantové broušení"
+    ],
+    "hero_img": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1600&q=80",
+    "gallery": [
+      {
+        "title": "Výrobní a skladové haly",
+        "desc": "Vysokozátěžové epoxidové stěrky odolné VZV",
+        "img": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Farmacie a potravinářství",
+        "desc": "Antistatické a snadno dezinfikovatelné povrchy",
+        "img": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Garáže a parkovací domy",
+        "desc": "Pružné polyuretanové nátěry překlenující trhliny",
+        "img": "https://images.unsplash.com/photo-1506521781263-d8422e82f27a?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Designové lité podlahy",
+        "desc": "Bezešvé polyuretanové stěrky do moderních interiérů",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80"
+      }
+    ],
+    "services": [
+      {
+        "icon": "🏭",
+        "name": "Epoxidové stěrky",
+        "desc": "Tvrdé lité podlahy pro sklady, montážní dílny a haly s pojezdem těžké manipulační techniky."
+      },
+      {
+        "icon": "🏢",
+        "name": "Polyuretanové podlahy",
+        "desc": "Elastické stěrky s tlumicím efektem ideální pro kanceláře, školy, nemocnice i obchodní prostory."
+      },
+      {
+        "icon": "⚡",
+        "name": "Antistatické podlahy (ESD)",
+        "desc": "Speciální svodivé podlahové systémy pro elektrotechnický průmysl a výbušná prostředí."
+      },
+      {
+        "icon": "🚜",
+        "name": "Diamantové broušení a tryskání",
+        "desc": "Dokonalá předúprava podkladu pro zajištění maximální přídržnosti nových podlahových vrstev."
+      }
+    ]
+  },
+  {
+    "id": "11-moravsky-grunt",
+    "name": "Restaurace Moravský grunt",
+    "city": "Olomouc",
+    "address": "Topolany 12, 779 00 Olomouc",
+    "phone": "+420 585 418 200",
+    "email": "rezervace@moravsky-grunt.cz",
+    "old_domain": "moravsky-grunt.cz",
+    "field": "Tradiční moravská kuchyně a společenské akce",
+    "tagline": "Poctivá gastronomie z lokálních hanáckých surovin, svatební hostiny a nezapomenutelné oslavy",
+    "theme": {
+      "primary": "#7A1C24",
+      "secondary": "#4A1016",
+      "accent": "#D4A373",
+      "accent_light": "#FAEDCD",
+      "bg_light": "#FEFDFB",
+      "text": "#2B2118",
+      "font_heading": "'Playfair Display', serif",
+      "font_body": "'Plus Jakarta Sans', sans-serif"
+    },
+    "audit_flaws": [
+      "Web z roku 2014 na Doctype HTML 4.01 bez responzivního zobrazení",
+      "Návštěvníci z mobilu si nemohou pohodlně prohlédnout denní menu ani nápojový lístek",
+      "Chybějící online formulář pro rezervaci stolů a svatebních termínů",
+      "Pomalé načítání starých fotografií v nízkém rozlišení"
+    ],
+    "usp": [
+      "Kapacita sálu až pro 120 osob + romantická venkovní zahrádka",
+      "Vlastní uzení masa, pečení chleba a tradiční hanácké speciality",
+      "Kompletní svatební servis na klíč od obřadu v zahradě po večerní raut",
+      "Výborná dostupnost jen 5 minut autem od centra Olomouce s velkým parkovištěm"
+    ],
+    "hero_img": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1600&q=80",
+    "gallery": [
+      {
+        "title": "Svatební hostiny",
+        "desc": "Kouzelné venkovní i vnitřní uspořádání svateb",
+        "img": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Tradiční moravská kuchyně",
+        "desc": "Pečená kachna, zvěřina, halušky a domácí dezerty",
+        "img": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Sál a salonek pro oslavy",
+        "desc": "Prostorné zázemí pro rodinná jubilea a firemní večírky",
+        "img": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Letní zahrádka s grilem",
+        "desc": "Příjemné posezení pod vzrostlými stromy s dětským koutkem",
+        "img": "https://images.unsplash.com/photo-1543007630-9710e4a00a20?auto=format&fit=crop&w=800&q=80"
+      }
+    ],
+    "services": [
+      {
+        "icon": "🦆",
+        "name": "Poctivá restaurace & jídelní lístek",
+        "desc": "Staročeské a moravské speciality připravované ze surovin od prověřených lokálních farmářů."
+      },
+      {
+        "icon": "💍",
+        "name": "Svatby snů na Gruntu",
+        "desc": "Romantický obřad pod širým nebem, slavnostní tříchodové menu, večerní grilování a zázemí pro novomanžele."
+      },
+      {
+        "icon": "🎉",
+        "name": "Rodinné a firemní oslavy",
+        "desc": "Narozeniny, křtiny, promoce i vánoční večírky v oddělených saloncích s individuálním rautem."
+      },
+      {
+        "icon": "🍷",
+        "name": "Vinný sklep a degustace",
+        "desc": "Široká nabídka přívlastkových vín od předních moravských vinařů a řízené degustace."
+      }
+    ]
+  },
+  {
+    "id": "12-bily-sro",
+    "name": "Zámečnictví Bílý, s.r.o.",
+    "city": "Prostějov",
+    "address": "Plumlovská 511/204, 796 04 Prostějov",
+    "phone": "+420 582 334 502",
+    "email": "bily@bily-sro.cz",
+    "old_domain": "bily-sro.cz",
+    "field": "Vjezdové brány, kované ploty a pohony",
+    "tagline": "Zakázková výroba posuvných i křídlových bran, hliníkových i kovaných plotů a automatických pohonů",
+    "theme": {
+      "primary": "#1F2937",
+      "secondary": "#111827",
+      "accent": "#EA580C",
+      "accent_light": "#FB923C",
+      "bg_light": "#F9FAFB",
+      "text": "#374151",
+      "font_heading": "'Rajdhani', sans-serif",
+      "font_body": "'Inter', sans-serif"
+    },
+    "audit_flaws": [
+      "Extrémně zastaralý kód obsahující 17 vnořených layoutových HTML tabulek",
+      "Pevná šířka pro staré monitory – na telefonech se layout zcela hroutí",
+      "Stará knihovna jQuery 1.7.2 a Doctype HTML 4.01 Transitional",
+      "Chybějící interaktivní konfigurátor vjezdových bran a pohonů"
+    ],
+    "usp": [
+      "Kompletní servis od zaměření přes výrobu až po zapojení pohonů CAME a Somfy",
+      "Žárové zinkování a práškové lakování komaxitem s 15letou zárukou proti korozi",
+      "Moderní lamolové a tahokovové výplně i klasické umělecké kovářství",
+      "Rychlý záruční i pozáruční servis pohonů a zámečnických prvků"
+    ],
+    "hero_img": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=1600&q=80",
+    "gallery": [
+      {
+        "title": "Samonosné posuvné brány",
+        "desc": "Tichý chod v zimě i létě bez vodicí kolejnice",
+        "img": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Hliníkové lamelové ploty",
+        "desc": "Bezúdržbový moderní design v odstínu Antracit",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Křídlové brány a branky",
+        "desc": "Sjednocený design vjezdu a vstupu s elektrozámkem",
+        "img": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Automatické pohony bran",
+        "desc": "Ovládání mobilem, čipem nebo dálkovým ovladačem",
+        "img": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&w=800&q=80"
+      }
+    ],
+    "services": [
+      {
+        "icon": "🚪",
+        "name": "Samonosné a křídlové brány",
+        "desc": "Výroba bran na míru stavebnímu otvoru s přípravou pro motory a bezpečnostní fotobuňky."
+      },
+      {
+        "icon": "🛡️",
+        "name": "Plotové dílce a branky",
+        "desc": "Stylové oplocení rodinných domů i firemních areálů v lamelovém, žaluziovém či kovaném provedení."
+      },
+      {
+        "icon": "⚡",
+        "name": "Automatické pohony CAME a NICE",
+        "desc": "Dodávka a odborné zapojení spolehlivých pohonů bran s možností integrace do chytré domácnosti."
+      },
+      {
+        "icon": "🪜",
+        "name": "Ocelová schodiště a zábradlí",
+        "desc": "Exteriérová i interiérová schodiště, balkónová zábradlí a nerezové prvky s certifikovanou nosností."
+      }
+    ]
+  },
+  {
+    "id": "13-kovovt",
+    "name": "KOVO VT s.r.o.",
+    "city": "Prostějov",
+    "address": "Průmyslová 4544/1C, 796 01 Prostějov",
+    "phone": "+420 582 340 771",
+    "email": "poptavky@kovovt.cz",
+    "old_domain": "kovovt.cz",
+    "field": "Přesné CNC kovoobrábění a strojírenství",
+    "tagline": "Kusové i sériové CNC frézování, soustružení a přesné mechanické díly s mikronovou přesností",
+    "theme": {
+      "primary": "#0F172A",
+      "secondary": "#1E293B",
+      "accent": "#2563EB",
+      "accent_light": "#60A5FA",
+      "bg_light": "#F8FAFC",
+      "text": "#334155",
+      "font_heading": "'Teko', sans-serif",
+      "font_body": "'Inter', sans-serif"
+    },
+    "audit_flaws": [
+      "Copyright v zápatí zamrzl v roce 2010 – 16 let stará stránka!",
+      "Použití zavržených HTML tagů <font> a pevné šířky",
+      "Absence mobilní verze snižuje šance u moderních strojírenských odběratelů",
+      "Chybějící seznam strojního vybavení (obráběcích center) a formulář pro zaslání STEP modelů"
+    ],
+    "usp": [
+      "Moderní 3osá a 5osá CNC obráběcí centra DMG MORI a Mazak",
+      "Obrábění oceli, nerezi, hliníku, mosazi i technických plastů",
+      "3D měřicí protokol zaručující přesnost do 0,005 mm",
+      "Zajištění povrchových úprav (eloxování, kalení, zinkování, černění)"
+    ],
+    "hero_img": "https://images.unsplash.com/photo-1581092335397-9583fe92d232?auto=format&fit=crop&w=1600&q=80",
+    "gallery": [
+      {
+        "title": "CNC frézování",
+        "desc": "Komplexní tvarové díly pro automobilový a letecký průmysl",
+        "img": "https://images.unsplash.com/photo-1581092335397-9583fe92d232?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "CNC soustružení",
+        "desc": "Rotační součásti s jemnou drsností povrchu",
+        "img": "https://images.unsplash.com/photo-1504917599217-d4dc5ebe6122?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Technická kontrola",
+        "desc": "Měření na 3D souřadnicovém stroji s výstupním protokolem",
+        "img": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Sériová výroba dílů",
+        "desc": "Automatizované obrábění s garantovanou opakovatelností",
+        "img": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80"
+      }
+    ],
+    "services": [
+      {
+        "icon": "⚙️",
+        "name": "CNC frézování",
+        "desc": "Obrábění složitých dílců ze všech druhů kovů a plastů na moderních frézovacích centrech dle CAD/CAM dat."
+      },
+      {
+        "icon": "🔄",
+        "name": "CNC soustružení",
+        "desc": "Přesné soustružení hřídelí, pouzder a přírub v kusových i stokusových sériích s pohonem rotujících nástrojů."
+      },
+      {
+        "icon": "📐",
+        "name": "3D měření a kontrola kvality",
+        "desc": "Výstupní kontrola na optických a dotykových měřicích strojích s doložením měřicího protokolu ke každé dodávce."
+      },
+      {
+        "icon": "🧪",
+        "name": "Tepelné a povrchové úpravy",
+        "desc": "Kompletní dodávka finálních dílů včetně kalení, cementování, eloxu, niklování a zinkování."
+      }
+    ]
+  },
+  {
+    "id": "14-pokryvacstvi-skyva",
+    "name": "Pokrývačství a tesařství Skyva",
+    "city": "Litovel",
+    "address": "Příčná 342, 784 01 Litovel",
+    "phone": "+420 604 889 123",
+    "email": "skyva@pokryvacstvi-skyva.cz",
+    "old_domain": "pokryvacstvi-skyva.cz",
+    "field": "Střechy, tesařské a pokrývačské práce",
+    "tagline": "Kompletní realizace nových střech, rekonstrukce krovů, hydroizolace a klempířské práce",
+    "theme": {
+      "primary": "#8C271E",
+      "secondary": "#491B1D",
+      "accent": "#D97706",
+      "accent_light": "#FCD34D",
+      "bg_light": "#FFFDF9",
+      "text": "#292524",
+      "font_heading": "'Cinzel', serif",
+      "font_body": "'Inter', sans-serif"
+    },
+    "audit_flaws": [
+      "Copyright v zápatí z roku 2013, kód HTML 4.01",
+      "Absence mobilní verze – zákazníci hledající opravu střechy po bouřce z mobilu web opouštějí",
+      "Chybějící fotogalerie moderních realizací taškových i plechových krytin",
+      "Neexistence kalkulačního formuláře s možností přiložit projekt krovu"
+    ],
+    "usp": [
+      "Více než 20 let zkušeností se stavbou střech na Litovelsku a Olomoucku",
+      "Certifikovaný pokrývač Tondach, Bramac, Creaton, Satjam a Ruukki",
+      "Kompletní dodávka materiálu s výraznými řemeslnými slevami pro zákazníka",
+      "Záruka na provedené dílo až 10 let a bezplatná revize střechy po zimě"
+    ],
+    "hero_img": "https://images.unsplash.com/photo-1541888946425-d0fbb186c5f7?auto=format&fit=crop&w=1600&q=80",
+    "gallery": [
+      {
+        "title": "Pálené a betonové tašky",
+        "desc": "Pokládka krytiny Tondach a Bramac na novostavbách",
+        "img": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Dřevěné krovy a vazníky",
+        "desc": "Tesařská výroba a montáž krovu z impregnovaného řeziva",
+        "img": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Falcované plechové střechy",
+        "desc": "Moderní hliníkové a ocelové krytiny do horských i moderních staveb",
+        "img": "https://images.unsplash.com/photo-1541888946425-d0fbb186c5f7?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Střešní okna a klempířina",
+        "desc": "Montáž oken Velux, lemování komínů a okapové systémy",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80"
+      }
+    ],
+    "services": [
+      {
+        "icon": "🏠",
+        "name": "Pokrývačské práce",
+        "desc": "Pokládka pálených tašek, betonových krytin, přírodní břidlice i lehkých plechových krytin."
+      },
+      {
+        "icon": "🌲",
+        "name": "Tesařské práce a vazby",
+        "desc": "Výroba a montáž klasických vázaných krovů, pergol, stání pro auta a sanace napadených dřevěných trámů."
+      },
+      {
+        "icon": "🔨",
+        "name": "Klempířské práce",
+        "desc": "Oplechování komínů, štítů, montáž žlabů, svodů a realizace falcovaných střech z hliníku a titanzinku."
+      },
+      {
+        "icon": "🪟",
+        "name": "Montáž střešních oken",
+        "desc": "Odborná instalace oken Velux a Roto včetně zateplovací sady a venkovních solárních rolet."
+      }
+    ]
+  },
+  {
+    "id": "15-nejlepsipruvodce",
+    "name": "Nejlepší průvodce Olomouc",
+    "city": "Olomouc",
+    "address": "Horní náměstí 1, 779 00 Olomouc",
+    "phone": "+420 777 654 321",
+    "email": "olomouc@nejlepsipruvodce.cz",
+    "old_domain": "nejlepsipruvodce.cz",
+    "field": "Turistické průvodcovské služby v Olomouci",
+    "tagline": "Zážitkové komentované prohlídky historického srdce Olomouce a památek UNESCO pro skupiny i jednotlivce",
+    "theme": {
+      "primary": "#3B1E54",
+      "secondary": "#210936",
+      "accent": "#E8A317",
+      "accent_light": "#FCD87D",
+      "bg_light": "#FAF7F2",
+      "text": "#2B1B17",
+      "font_heading": "'Playfair Display', serif",
+      "font_body": "'Plus Jakarta Sans', sans-serif"
+    },
+    "audit_flaws": [
+      "Copyright v patičce z roku 2010 – 16 let neaktualizovaný web",
+      "5 layoutových tabulek a staré tagy <font>",
+      "Zahraniční i čeští turisté na mobilu web okamžitě opouštějí kvůli nečitelnosti",
+      "Chybějící online rezervace termínů a vícejazyčné přepínání (EN/DE)"
+    ],
+    "usp": [
+      "Oficiální certifikovaní průvodci s vysokoškolským historickým vzděláním",
+      "Zábavný výklad plný málo známých legend a tajemství hanácké metropole",
+      "Individuální trasy přizpůsobené rodinám s dětmi, školám i firemním hostům",
+      "Výklad v češtině, angličtině, němčině, polštině i hanáckém nářečí"
+    ],
+    "hero_img": "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=1600&q=80",
+    "gallery": [
+      {
+        "title": "Sloup Nejsvětější Trojice",
+        "desc": "Unikátní památka UNESCO s přístupnou kaplí",
+        "img": "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Olomoucký orloj a radnice",
+        "desc": "Mozaika Karla Svolinského a výstup na vyhlídkovou věž",
+        "img": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Katedrála sv. Václava",
+        "desc": "Novogotická dominanta Václavského návrší",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Barokní kašny a uličky",
+        "desc": "Procházka uličkami s pověstmi o vodnících a řemeslnících",
+        "img": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80"
+      }
+    ],
+    "services": [
+      {
+        "icon": "🏛️",
+        "name": "Klenoty Olomouce (UNESCO okruh)",
+        "desc": "Dvouhodinová reprezentativní trasa: Horní náměstí, orloj, Sloup Nejsvětější Trojice a Dolní náměstí."
+      },
+      {
+        "icon": "🏰",
+        "name": "Olomoucké pevnostní město",
+        "desc": "Trasa po stopách tereziánské pevnosti, Korunní pevnůstky a tajemných podzemních chodeb."
+      },
+      {
+        "icon": "🎒",
+        "name": "Školní a výukové exkurze",
+        "desc": "Hravé interaktivní prohlídky pro základní a střední školy s pracovními listy a historickým kvízem."
+      },
+      {
+        "icon": "🌙",
+        "name": "Večerní tajuplná Olomouc",
+        "desc": "Atmosférická noční procházka s lucernami zaměřená na strašidla, zločiny a olomoucké katy."
+      }
+    ]
+  },
+  {
+    "id": "16-omnis",
+    "name": "OMNIS Olomouc a.s.",
+    "city": "Olomouc",
+    "address": "Wolkerova 29, 779 00 Olomouc",
+    "phone": "+420 585 411 740",
+    "email": "veletrhy@omnis.cz",
+    "old_domain": "omnis.cz",
+    "field": "Výstavnictví a veletrhy (Stavotech)",
+    "tagline": "Pořadatel předních stavebních a zahradních veletrhů Stavotech, Dům a zahrada a Bydlení",
+    "theme": {
+      "primary": "#047857",
+      "secondary": "#064E3B",
+      "accent": "#F59E0B",
+      "accent_light": "#FDE68A",
+      "bg_light": "#F9FBF9",
+      "text": "#1F2937",
+      "font_heading": "'Montserrat', sans-serif",
+      "font_body": "'Inter', sans-serif"
+    },
+    "audit_flaws": [
+      "Stránka má copyright z roku 2013 na Doctype HTML 4.01",
+      "Stará knihovna jQuery 1.7.2 a fixní rozvržení neodpovídající modernímu veletrhu",
+      "Vystavovatelé nemají k dispozici online registraci stánků a objednávku služeb",
+      "Návštěvníci nemohou stáhnout zlevněnou vstupenku do mobilu přes QR kód"
+    ],
+    "usp": [
+      "Přes 30 let organizace nejnavštěvovanějších stavebních veletrhů na střední Moravě",
+      "Tradiční dějiště na Výstavišti Flora Olomouc s tisíci návštěvníky z celé ČR",
+      "Komplexní doprovodný program přednášek, seminářů a poradenství zdarma",
+      "Přímé propojení výrobců, řemeslníků a koncových investorů"
+    ],
+    "hero_img": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?auto=format&fit=crop&w=1600&q=80",
+    "gallery": [
+      {
+        "title": "Veletrh Stavotech Olomouc",
+        "desc": "Stovky vystavovatelů a novinky ve vytápění i stavbách",
+        "img": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Dům a zahrada",
+        "desc": "Zahradní technika, bazény a venkovní architektura",
+        "img": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Přednáškový sál",
+        "desc": "Odborné semináře o dotacích a úsporách energie",
+        "img": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Expozice vytápění a FVE",
+        "desc": "Tepelná čerpadla, krby a solární panely naživo",
+        "img": "https://images.unsplash.com/photo-1509391365360-2e959784a276?auto=format&fit=crop&w=800&q=80"
+      }
+    ],
+    "services": [
+      {
+        "icon": "🎟️",
+        "name": "Veletrh STAVOTECH",
+        "desc": "Jarní a podzimní stavební a technický veletrh zaměřený na stavbu, rekonstrukci, vytápění a energie."
+      },
+      {
+        "icon": "🌱",
+        "name": "Dům a zahrada",
+        "desc": "Výstavní akce zaměřená na úpravu zahrad, sauny, terasy, bazény a venkovní bydlení."
+      },
+      {
+        "icon": "🏢",
+        "name": "Servis pro vystavovatele",
+        "desc": "Kompletní výstavba stánků, technické přípojky, propagace v médiích a katalog vystavovatelů."
+      },
+      {
+        "icon": "💡",
+        "name": "Doprovodný program a poradna",
+        "desc": "Bezplatné nezávislé poradenství odborníků v dotačních programech a energetických úsporách."
+      }
+    ]
+  },
+  {
+    "id": "17-truhlarstvijiro",
+    "name": "Truhlářství JIRO",
+    "city": "Šumperk",
+    "address": "Vikýřovická 118, 787 01 Šumperk",
+    "phone": "+420 605 912 345",
+    "email": "jiro@truhlarstvijiro.cz",
+    "old_domain": "truhlarstvijiro.cz",
+    "field": "Zakázkové truhlářství a výroba nábytku",
+    "tagline": "Moderní kuchyně, vestavěné skříně a nábytek na míru v podhůří Jeseníků s důrazem na detail",
+    "theme": {
+      "primary": "#334155",
+      "secondary": "#1E293B",
+      "accent": "#059669",
+      "accent_light": "#34D399",
+      "bg_light": "#F8FAFC",
+      "text": "#1E293B",
+      "font_heading": "'Plus Jakarta Sans', sans-serif",
+      "font_body": "'Inter', sans-serif"
+    },
+    "audit_flaws": [
+      "Web nemá definován meta viewport a na telefonech se vůbec nepřizpůsobuje",
+      "Pevná šířka z let 2010–2012 působí na moderních displejích jako úzký pruh",
+      "Fotogalerie obsahuje zastaralé fotky v nízkém rozlišení bez detailů kování",
+      "Chybějící přehled materiálů (Egger, Kronospan, Senosan) a 3D vizualizací"
+    ],
+    "usp": [
+      "Přes 15 let zkušeností s výrobou nábytku v šumperském regionu",
+      "Moderní CNC formátovací a olepovací technologie pro neviditelné spáry (PUR)",
+      "3D fotorealistický návrh interiéru před zahájením výroby",
+      "Osobní přístup rodinného truhlářství od zaměření po finální montáž"
+    ],
+    "hero_img": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=1600&q=80",
+    "gallery": [
+      {
+        "title": "Bezúchytkové kuchyně",
+        "desc": "Frézované úchytové profily a dubové akcenty",
+        "img": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Vestavěné skříně na míru",
+        "desc": "Tiché posuvné dveře a vnitřní LED osvětlení",
+        "img": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Koupelnový nábytek",
+        "desc": "Hluboce impregnované desky odolné vodní páře",
+        "img": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Obývací stěny a lamely",
+        "desc": "Akustické dřevěné lamely a televizní komody",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80"
+      }
+    ],
+    "services": [
+      {
+        "icon": "🍽️",
+        "name": "Kuchyňské linky na míru",
+        "desc": "Kuchyně navržené pro radost z vaření – plnovýsuvy Blum, odolné pracovní desky a integrované LED pásky."
+      },
+      {
+        "icon": "👔",
+        "name": "Vestavné skříně a šatny",
+        "desc": "Perfektní využití podkrovních i atypických prostor s organizovanými zásuvkami a věšáky."
+      },
+      {
+        "icon": "🛋️",
+        "name": "Obývací pokoje a předsíně",
+        "desc": "Moderní TV stěny, botníky, designové věšákové panely a knihovny zhotovené přesně na míru."
+      },
+      {
+        "icon": "🛏️",
+        "name": "Ložnice a postele",
+        "desc": "Pevné masivní i čalouněné postele s úložným prostorem a nočními stolky."
+      }
+    ]
+  },
+  {
+    "id": "18-minigolfolomouc",
+    "name": "Minigolf Club Olomouc",
+    "city": "Olomouc",
+    "address": "Lazecká 400/21, 779 00 Olomouc",
+    "phone": "+420 608 112 233",
+    "email": "info@minigolfolomouc.cz",
+    "old_domain": "minigolfolomouc.cz",
+    "field": "Sportovní a volnočasový minigolfový areál",
+    "tagline": "Zábava pro rodiny, sportovní nadšence i firemní akce v klidném zeleném parku v Olomouci",
+    "theme": {
+      "primary": "#15803D",
+      "secondary": "#166534",
+      "accent": "#F59E0B",
+      "accent_light": "#FDE68A",
+      "bg_light": "#F0FDF4",
+      "text": "#1E293B",
+      "font_heading": "'Fredoka', sans-serif",
+      "font_body": "'Plus Jakarta Sans', sans-serif"
+    },
+    "audit_flaws": [
+      "Web postaven na 4 tabulkách s Doctype HTML 4.01",
+      "Absence mobilní responzivity – návštěvníci v parku z mobilu nezjistí otevírací dobu",
+      "Zastaralý design z přelomu let 2009/2010 bez možnosti online rezervace turnajů",
+      "Chybějící přehled balíčků pro firemní teambuildingy a narozeninové oslavy"
+    ],
+    "usp": [
+      "18 certifikovaných eternitových a filcových drah dle standardů WMF",
+      "Příjemné venkovní posezení s točeným pivem, limonádou a občerstvením",
+      "Půjčovna profesionálních i rekreačních holí a míčků v ceně vstupného",
+      "Možnost kompletního pronájmu areálu pro soukromé i firemní akce"
+    ],
+    "hero_img": "https://images.unsplash.com/photo-1587174486073-ae5e5cff23aa?auto=format&fit=crop&w=1600&q=80",
+    "gallery": [
+      {
+        "title": "18 mistrovských drah",
+        "desc": "Různorodé překážky pro začátečníky i experty",
+        "img": "https://images.unsplash.com/photo-1587174486073-ae5e5cff23aa?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Rodinná odpoledne",
+        "desc": "Skvělá zábava pro děti od 4 let i prarodiče",
+        "img": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Firemní turnaje a teambuilding",
+        "desc": "Soutěže týmů s moderováním a grilem",
+        "img": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Letní terasa a bistro",
+        "desc": "Osvěžení chlazenými nápoji a zmrzlinou",
+        "img": "https://images.unsplash.com/photo-1543007630-9710e4a00a20?auto=format&fit=crop&w=800&q=80"
+      }
+    ],
+    "services": [
+      {
+        "icon": "⛳",
+        "name": "Rekreační minigolf",
+        "desc": "Hra pro jednotlivce, páry i celé rodiny bez časového omezení včetně zapůjčení hole a míčku."
+      },
+      {
+        "icon": "🏆",
+        "name": "Firemní turnaje a teambuildingy",
+        "desc": "Zorganizování minigolfového turnaje na klíč se zázemím pro catering, hudbu a slavnostní vyhlášení."
+      },
+      {
+        "icon": "🎂",
+        "name": "Dětské narozeninové oslavy",
+        "desc": "Nezapomenutelná oslava na čerstvém vzduchu se soutěžemi, diplomem pro oslavence a občerstvením."
+      },
+      {
+        "icon": "🎯",
+        "name": "Tréninky a klubová činnost",
+        "desc": "Možnost výuky minigolfu pod vedením ligových hráčů a účast na turnajích Českého minigolfového svazu."
+      }
+    ]
+  },
+  {
+    "id": "19-praktikcentrum",
+    "name": "Praktikcentrum Olomouc",
+    "city": "Olomouc",
+    "address": "Jeremenkova 40/B, 779 00 Olomouc",
+    "phone": "+420 585 242 111",
+    "email": "ordinace@praktikcentrum.cz",
+    "old_domain": "praktikcentrum.cz",
+    "field": "Zdravotnické centrum a praktičtí lékaři",
+    "tagline": "Moderní primární péče praktických lékařů pro dospělé s lidským přístupem a minimálním čekáním",
+    "theme": {
+      "primary": "#0D9488",
+      "secondary": "#115E59",
+      "accent": "#0284C7",
+      "accent_light": "#7DD3FC",
+      "bg_light": "#F0FDFA",
+      "text": "#1E293B",
+      "font_heading": "'Plus Jakarta Sans', sans-serif",
+      "font_body": "'Inter', sans-serif"
+    },
+    "audit_flaws": [
+      "Zastaralý fixní blok z roku 2012, který se na mobilech nerozbalí",
+      "Pacienti na cestě do ordinace nemají přístup k rychlému zobrazení ordinačních hodin",
+      "Chybějící možnost online objednání na konkrétní čas a žádost o recept",
+      "Starý vizuál nevzbuzuje dojem moderní technologicky vybavené ordinace"
+    ],
+    "usp": [
+      "Přijímáme nové pacienty – rychlá registrace online bez zdlouhavého papírování",
+      "Moderní přístrojové vybavení přímo v ordinaci (CRP, EKG, INR, tlakový Holter)",
+      "Online systém pro objednávání termínů a zasílání elektronických receptů (eRecept)",
+      "Smlouvy se všemi hlavními zdravotními pojišťovnami v České republice"
+    ],
+    "hero_img": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=1600&q=80",
+    "gallery": [
+      {
+        "title": "Přívětivá ordinace",
+        "desc": "Čisté, klimatizované a bezbariérové prostředí",
+        "img": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Přístrojová diagnostika",
+        "desc": "Výsledky CRP a INR z kapky krve do 3 minut",
+        "img": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Preventivní prohlídky",
+        "desc": "Komplexní zhodnocení zdravotního stavu a screening",
+        "img": "https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Očkování a administrativa",
+        "desc": "Řidičské průkazy, zbrojní pasy i cestovní medicína",
+        "img": "https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?auto=format&fit=crop&w=800&q=80"
+      }
+    ],
+    "services": [
+      {
+        "icon": "🩺",
+        "name": "Preventivní a léčebná péče",
+        "desc": "Včasná diagnostika civilizačních chorob, léčba akutních onemocnění a péče o chronické pacienty."
+      },
+      {
+        "icon": "⚡",
+        "name": "Rychlá POCT diagnostika",
+        "desc": "Přímé stanovení CRP (rozlišení virózy od bakteriální infekce), glykémie a rozbor moči bez nutnosti čekat na laboratoř."
+      },
+      {
+        "icon": "💉",
+        "name": "Pravidelná i volitelná očkování",
+        "desc": "Očkování proti tetanu, chřipce, klíšťové encefalitidě, černému kašli a pneumokokům."
+      },
+      {
+        "icon": "📜",
+        "name": "Lékařské posudky a potvrzení",
+        "desc": "Posudky pro řízení motorových vozidel, zbrojní průkazy, vstupní prohlídky do zaměstnání a lázeňské návrhy."
+      }
+    ]
+  },
+  {
+    "id": "20-nabytek-sindelar",
+    "name": "Nábytek Šindelář",
+    "city": "Prostějov",
+    "address": "Krasická 351/4, 796 01 Prostějov",
+    "phone": "+420 603 821 774",
+    "email": "sindelar@nabytek-sindelar.cz",
+    "old_domain": "nabytek-sindelar.cz",
+    "field": "Stolařství a zakázkový nábytek",
+    "tagline": "Špičkový nábytek na míru pro váš domov – elegantní kuchyně, vestavěné skříně a designové interiéry",
+    "theme": {
+      "primary": "#2D3748",
+      "secondary": "#1A202C",
+      "accent": "#B45309",
+      "accent_light": "#F59E0B",
+      "bg_light": "#F7FAFC",
+      "text": "#2D3748",
+      "font_heading": "'Playfair Display', serif",
+      "font_body": "'Inter', sans-serif"
+    },
+    "audit_flaws": [
+      "Web funguje na staré šabloně Webnode se zastaralým copyrightem",
+      "Použití inline tagů <font> a nekvalitní komprimované fotky",
+      "Chybějící mobilní optimalizace pro moderní zákazníky hledající inspiraci na telefonu",
+      "Absence interaktivního formuláře pro nezávaznou poptávku s možností nahrát půdorys"
+    ],
+    "usp": [
+      "Přes 20 let zkušeností s výrobou prémiového nábytku v Prostějově",
+      "Používáme špičkové kování Blum a materiály Egger, Kronospan a dýhy",
+      "Kompletní služby od 3D návrhu až po precizní montáž a úklid",
+      "Záruka 5 let na konstrukci nábytku a doživotní záruka na pojezdy Blum"
+    ],
+    "hero_img": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=1600&q=80",
+    "gallery": [
+      {
+        "title": "Kuchyně snů",
+        "desc": "Kombinace matného antracitu a přírodního dubu",
+        "img": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Šatny a vestavěné skříně",
+        "desc": "Inteligentní uspořádání každého centimetru prostoru",
+        "img": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Obývací pokoje na míru",
+        "desc": "Čisté linie, podsvícení a bezúchytkové otevírání",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "title": "Dětské a studentské pokoje",
+        "desc": "Rostoucí nábytek a funkční pracovní stoly",
+        "img": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=800&q=80"
+      }
+    ],
+    "services": [
+      {
+        "icon": "🍽️",
+        "name": "Kuchyně na míru",
+        "desc": "Kompletní realizace od 3D vizualizace po montáž spotřebičů. Praktická řešení, tiché dovírání a odolné pracovní desky."
+      },
+      {
+        "icon": "🚪",
+        "name": "Vestavěné skříně",
+        "desc": "Výroba šaten a skříní do ložnic, chodeb i podkroví. Široká škála dekorů a vnitřního vybavení."
+      },
+      {
+        "icon": "📺",
+        "name": "Obývací a ložnicový nábytek",
+        "desc": "Solitérní komody, TV sestavy, noční stolky a postele z masivu i dýhy přesně podle vašich představ."
+      },
+      {
+        "icon": "🏢",
+        "name": "Vybavení komerčních prostor",
+        "desc": "Zakázkový nábytek do kanceláří, obchodů a recepcí odolávající každodennímu vytížení."
+      }
+    ]
+  }
+]
