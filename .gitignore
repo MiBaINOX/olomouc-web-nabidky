@@ -1,0 +1,7 @@
+crawled_data/
+nabidky-html/
+__pycache__/
+*.py
+*.pyc
+.DS_Store
+Thumbs.db
