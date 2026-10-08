@@ -1,5 +1,5 @@
 <?php
-// Automaticky skript pro odesilani poptavek z webu podlaharstvivitek.cz (Podlahářství Jan Vítek)
+// Automaticky skript pro odesilani poptavek z webu podlaharstvi-vitek.cz (Podlahářství Vítek)
 header('Content-Type: application/json; charset=utf-8');
 
 if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
@@ -26,11 +26,11 @@ if ($name === '' || $phone === '' || $message === '') {
     exit;
 }
 
-$to = "vitek@podlaharstvivitek.cz";
-$subject = "=?UTF-8?B?" . base64_encode("Nova poptavka z webu (podlaharstvivitek.cz): " . $service . " - " . $name) . "?=";
+$to = "jarosvitek@seznam.cz";
+$subject = "=?UTF-8?B?" . base64_encode("Nova poptavka z webu (podlaharstvi-vitek.cz): " . $service . " - " . $name) . "?=";
 
 $body  = "Dobrý den,\n\n";
-$body .= "z webového formuláře na stránkách Podlahářství Jan Vítek (podlaharstvivitek.cz) byla odeslána nová poptávka:\n\n";
+$body .= "z webového formuláře na stránkách Podlahářství Vítek (podlaharstvi-vitek.cz) byla odeslána nová poptávka:\n\n";
 $body .= "--------------------------------------------------\n";
 $body .= "Jméno / Firma:   " . $name . "\n";
 $body .= "Telefon:         " . $phone . "\n";
@@ -43,7 +43,7 @@ $body .= "--------------------------------------------------\n";
 
 $headers  = "MIME-Version: 1.0\r\n";
 $headers .= "Content-type: text/plain; charset=UTF-8\r\n";
-$headers .= "From: Webovy formular <noreply@podlaharstvivitek.cz>\r\n";
+$headers .= "From: Webovy formular <noreply@podlaharstvi-vitek.cz>\r\n";
 if (filter_var($email, FILTER_VALIDATE_EMAIL)) {
     $headers .= "Reply-To: " . $email . "\r\n";
 }
