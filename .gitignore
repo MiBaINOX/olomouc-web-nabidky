@@ -4,4 +4,4 @@ __pycache__/
 *.py
 *.pyc
 .DS_Store
-Thumbs.db
+pet-passport-pwa/

@@ -1,5 +1,5 @@
 <?php
-// Automaticky skript pro odesilani poptavek z webu pradelnaspacil.cz (Prádelna a čistírna Spáčil – Šternberk, Zábřeh, Uničov)
+// Automaticky skript pro odesilani poptavek z webu pradelnaspacil.cz (Vít Spáčil - prádelny a čistírny, spol. s r.o.)
 header('Content-Type: application/json; charset=utf-8');
 
 if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
@@ -26,11 +26,11 @@ if ($name === '' || $phone === '' || $message === '') {
     exit;
 }
 
-$to = "radek.spacil@pradelnaspacil.cz";
+$to = "info@pradelnaspacil.cz";
 $subject = "=?UTF-8?B?" . base64_encode("Nova poptavka z webu (pradelnaspacil.cz): " . $service . " - " . $name) . "?=";
 
 $body  = "Dobrý den,\n\n";
-$body .= "z webového formuláře na stránkách Prádelna a čistírna Spáčil – Šternberk, Zábřeh, Uničov (pradelnaspacil.cz) byla odeslána nová poptávka:\n\n";
+$body .= "z webového formuláře na stránkách Vít Spáčil - prádelny a čistírny, spol. s r.o. (pradelnaspacil.cz) byla odeslána nová poptávka:\n\n";
 $body .= "--------------------------------------------------\n";
 $body .= "Jméno / Firma:   " . $name . "\n";
 $body .= "Telefon:         " . $phone . "\n";
